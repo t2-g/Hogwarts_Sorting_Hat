@@ -25,9 +25,9 @@ class MyAppState extends State<MyApp> {
       'What\'s your favorite color?',
       'What\'s your favorite drink?',
       'What\'s your favorite movie?',
-      'What\'s your favorite ?',
-      'What\'s your favorite drink?',
-      'What\'s your favorite drink?',
+      'What\'s your favorite professor?',
+      'What\'s your favorite spell?',
+      'What\'s your favorite broom?',
     ];
     return MaterialApp(
       home: Scaffold(
