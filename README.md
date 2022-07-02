@@ -17,12 +17,4 @@ This is a Flutter application to find one's Hogwarts Houses - Gryffindor, Huffle
 5. There are two screens in the app home (where questions will be shown) and the result screen ( where score and remark will be shown).
 6. The whole app will be separated into five different modules namely main.dart, question.dart, answer.dart,quiz.dart and result.dart.
 
-## UI
-### Register page
-<img src="" width="250">
-
-### Main page
-<img src="" width="250">
-
-
 This project is inspired by the course i did on Coursera.
